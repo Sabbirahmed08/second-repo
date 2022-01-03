@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+}
+.welcome{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 800px;
+    margin: auto;
+    padding: 5px 0; 
+}
+.front-img{
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+}
+.about-section{
+    padding-top: 20px;
+    background-color: antiquewhite;
+}
+.about-section h2{
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px !important;
+    width: 150px;
+    margin: auto;
+    
+}
+.about-section p{
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+}
+.select-section{
+    background-color: #f7f9ff;
+    padding: 20px 0;
+}
+.select-section h2{
+    text-align: center;
+    margin-bottom: 10px !important;
+    border-bottom: 1px dashed black;
+    width: 400px;
+    margin: auto;
+}
+.select-section form{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
